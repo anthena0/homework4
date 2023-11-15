@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\codehw\homework4\p21\p21\source.cpp(24): warning C4101: 'i': 未參考的區域變數
+c:\codehw\homework4\p21\p21\source.cpp(41): warning C4101: 'i': 未參考的區域變數
+  p21.vcxproj -> C:\codeHW\homework4\p21\Debug\p21.exe
