@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\codehw\homework4\p13\p9\source.cpp(10): warning C4838: 從 'double' 到 'int' 的轉換必須是縮小轉換
+c:\codehw\homework4\p13\p9\source.cpp(10): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  p9.vcxproj -> C:\codeHW\homework4\p13\Debug\p13.exe
